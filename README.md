@@ -24,7 +24,7 @@
 
 - [HTML에 대한 빠른 소개](summary/introduce.md)
 - [HTML의 요소 분석](summary/anatomy-elements.md)
-- [HTML의 요소 분석](summary/anotorny-documents.md)
+- [HTML의 문서 분석](summary/anotorny-documents.md)
 - [주석 처리](summary/anotorny-documents.md)
 - [head 안을 살펴보기](summary/head.md)
 
