@@ -11,4 +11,4 @@ HTML의 주석 처리는 `<!--` 내용 `-->`입니다.
 
 결과:
 
-![html comment result](images/html-comment.png)
+![html comment result](../images/html-comment.png)
