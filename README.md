@@ -40,3 +40,4 @@
 - [w3schools](https://www.w3schools.com/html/default.asp)
 - [whatwg](https://html.spec.whatwg.org/multipage/)
 - [caniuse](https://caniuse.com/)
+- [MDN](https://developer.mozilla.org/en-US/docs/Web/HTML)
