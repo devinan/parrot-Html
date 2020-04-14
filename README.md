@@ -25,11 +25,18 @@
 - [HTML에 대한 빠른 소개](summary/introduce.md)
 - [HTML의 요소 분석](summary/anatomy-elements.md)
 - [HTML의 문서 분석](summary/anotorny-documents.md)
-- [주석 처리](summary/anotorny-documents.md)
+- [주석 처리](summary/comments.md)
 - [head 안을 살펴보기](summary/head.md)
+- [Semantic Elements](summary/semantic.md)
 
 ### Project
 
-### Error & Issue
+### [Error & Issue](error-issue/README.md)
+
+> html 개발 공부하면서 에러나 이슈에 대해서 정리합니다.
 
 ### link
+
+- [w3schools](https://www.w3schools.com/html/default.asp)
+- [whatwg](https://html.spec.whatwg.org/multipage/)
+- [caniuse](https://caniuse.com/)
